@@ -11,7 +11,7 @@
 - Read request from connectionSocket
 - Write reply to connectionSocket
 - Close connectionSocket
-- Wait for next client connection (serverSocket still opened)
+- Wait for next client connection (serverSocket still open)
 
 ![image](https://user-images.githubusercontent.com/55427886/111873856-b903b780-89d5-11eb-9d27-8edc16219b60.png)
 
