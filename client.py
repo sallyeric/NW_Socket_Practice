@@ -1,6 +1,6 @@
 from socket import *
 
-serverIP = '192.168.0.104'
+serverIP = 'IP주소' #wsl에서 ifconfig의 inet
 serverPort = 12000
 
 clientSocket = socket(AF_INET, SOCK_STREAM)
